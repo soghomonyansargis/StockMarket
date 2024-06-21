@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarketwebsocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|solutionrelative:stockmarketwebsocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarketwebsocket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|solutionrelative:stockmarketwebsocket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarketwebsocket\\services\\implementations\\broadcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|solutionrelative:stockmarketwebsocket\\services\\implementations\\broadcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarketwebsocket\\services\\abstractions\\ibroadcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|solutionrelative:stockmarketwebsocket\\services\\abstractions\\ibroadcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarketwebsocket\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|solutionrelative:stockmarketwebsocket\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarketwebsocket\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|solutionrelative:stockmarketwebsocket\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarketwebsocket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE446CA9-E128-4B17-8C43-4EA05B1855B4}|StockMarketWebSocket\\StockMarketWebSocket.csproj|solutionrelative:stockmarketwebsocket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.infrastructure\\services\\implementations\\stockmarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|solutionrelative:stockmarket.infrastructure\\services\\implementations\\stockmarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.infrastructure\\services\\abstractions\\istockmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|solutionrelative:stockmarket.infrastructure\\services\\abstractions\\istockmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.infrastructure\\options\\cexconfigurationsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|solutionrelative:stockmarket.infrastructure\\options\\cexconfigurationsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.infrastructure\\options\\alphavantageconfigurationsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|solutionrelative:stockmarket.infrastructure\\options\\alphavantageconfigurationsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.infrastructure\\models\\realtimecurrencyexchangeratemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|solutionrelative:stockmarket.infrastructure\\models\\realtimecurrencyexchangeratemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.infrastructure\\models\\currencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|solutionrelative:stockmarket.infrastructure\\models\\currencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.infrastructure\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|solutionrelative:stockmarket.infrastructure\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.infrastructure\\exceptions\\toomanyrequestsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|StockMarket.Infrastructure\\StockMarket.Infrastructure.csproj|solutionrelative:stockmarket.infrastructure\\exceptions\\toomanyrequestsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api.contracts\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:stockmarket.api.contracts\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api.contracts\\validation\\tickerrequestmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:stockmarket.api.contracts\\validation\\tickerrequestmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api.contracts\\models\\responses\\stockmarketresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:stockmarket.api.contracts\\models\\responses\\stockmarketresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api.contracts\\models\\requests\\tickerrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:stockmarket.api.contracts\\models\\requests\\tickerrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api.contracts\\errors\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:stockmarket.api.contracts\\errors\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api.contracts\\errors\\modelnotvaliderrordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:stockmarket.api.contracts\\errors\\modelnotvaliderrordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api.contracts\\errors\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|StockMarket.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:stockmarket.api.contracts\\errors\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|solutionrelative:stockmarket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|solutionrelative:stockmarket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|solutionrelative:stockmarket.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|solutionrelative:stockmarket.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api\\extensions\\exceptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|solutionrelative:stockmarket.api\\extensions\\exceptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api\\controllers\\currenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|solutionrelative:stockmarket.api\\controllers\\currenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\stockmarket.api\\controllers\\base\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|StockMarket.Api\\StockMarket.Api.csproj|solutionrelative:stockmarket.api\\controllers\\base\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F72BCA-B866-4AA5-BEEF-78FF1AC8635D}|SimpleWS-Client\\SimpleWS-Client.csproj|c:\\users\\sargis_soghomonyan\\desktop\\stockmarket\\simplews-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F72BCA-B866-4AA5-BEEF-78FF1AC8635D}|SimpleWS-Client\\SimpleWS-Client.csproj|solutionrelative:simplews-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Program.cs",
+              "RelativeDocumentMoniker": "StockMarketWebSocket\\Program.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Program.cs",
+              "RelativeToolTip": "StockMarketWebSocket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:33:35.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\appsettings.json",
+              "RelativeDocumentMoniker": "StockMarketWebSocket\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\appsettings.json",
+              "RelativeToolTip": "StockMarketWebSocket\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T07:33:29.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BroadcastService.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Services\\Implementations\\BroadcastService.cs",
+              "RelativeDocumentMoniker": "StockMarketWebSocket\\Services\\Implementations\\BroadcastService.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Services\\Implementations\\BroadcastService.cs",
+              "RelativeToolTip": "StockMarketWebSocket\\Services\\Implementations\\BroadcastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:32:42.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBroadcastService.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Services\\Abstractions\\IBroadcastService.cs",
+              "RelativeDocumentMoniker": "StockMarketWebSocket\\Services\\Abstractions\\IBroadcastService.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Services\\Abstractions\\IBroadcastService.cs",
+              "RelativeToolTip": "StockMarketWebSocket\\Services\\Abstractions\\IBroadcastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:32:39.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "StockMarketWebSocket\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "StockMarketWebSocket\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:32:35.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebSocketController.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Controllers\\WebSocketController.cs",
+              "RelativeDocumentMoniker": "StockMarketWebSocket\\Controllers\\WebSocketController.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Controllers\\WebSocketController.cs",
+              "RelativeToolTip": "StockMarketWebSocket\\Controllers\\WebSocketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:32:07.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StockMarketWebSocket\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarketWebSocket\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StockMarketWebSocket\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T07:32:04.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockMarketService.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Services\\Implementations\\StockMarketService.cs",
+              "RelativeDocumentMoniker": "StockMarket.Infrastructure\\Services\\Implementations\\StockMarketService.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Services\\Implementations\\StockMarketService.cs",
+              "RelativeToolTip": "StockMarket.Infrastructure\\Services\\Implementations\\StockMarketService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:29:37.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStockMarket.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Services\\Abstractions\\IStockMarket.cs",
+              "RelativeDocumentMoniker": "StockMarket.Infrastructure\\Services\\Abstractions\\IStockMarket.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Services\\Abstractions\\IStockMarket.cs",
+              "RelativeToolTip": "StockMarket.Infrastructure\\Services\\Abstractions\\IStockMarket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:29:34.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CexConfigurationsOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Options\\CexConfigurationsOptions.cs",
+              "RelativeDocumentMoniker": "StockMarket.Infrastructure\\Options\\CexConfigurationsOptions.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Options\\CexConfigurationsOptions.cs",
+              "RelativeToolTip": "StockMarket.Infrastructure\\Options\\CexConfigurationsOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:29:30.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlphaVantageConfigurationsOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Options\\AlphaVantageConfigurationsOptions.cs",
+              "RelativeDocumentMoniker": "StockMarket.Infrastructure\\Options\\AlphaVantageConfigurationsOptions.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Options\\AlphaVantageConfigurationsOptions.cs",
+              "RelativeToolTip": "StockMarket.Infrastructure\\Options\\AlphaVantageConfigurationsOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:29:28.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RealtimeCurrencyExchangeRateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Models\\RealtimeCurrencyExchangeRateModel.cs",
+              "RelativeDocumentMoniker": "StockMarket.Infrastructure\\Models\\RealtimeCurrencyExchangeRateModel.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Models\\RealtimeCurrencyExchangeRateModel.cs",
+              "RelativeToolTip": "StockMarket.Infrastructure\\Models\\RealtimeCurrencyExchangeRateModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:29:20.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CurrencyModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Models\\CurrencyModel.cs",
+              "RelativeDocumentMoniker": "StockMarket.Infrastructure\\Models\\CurrencyModel.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Models\\CurrencyModel.cs",
+              "RelativeToolTip": "StockMarket.Infrastructure\\Models\\CurrencyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:29:16.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "StockMarket.Infrastructure\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "StockMarket.Infrastructure\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:29:14.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TooManyRequestsException.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Exceptions\\TooManyRequestsException.cs",
+              "RelativeDocumentMoniker": "StockMarket.Infrastructure\\Exceptions\\TooManyRequestsException.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Infrastructure\\Exceptions\\TooManyRequestsException.cs",
+              "RelativeToolTip": "StockMarket.Infrastructure\\Exceptions\\TooManyRequestsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:29:11.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Constants.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api.Contracts\\Constants.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Constants.cs",
+              "RelativeToolTip": "StockMarket.Api.Contracts\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:28:52.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TickerRequestModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Validation\\TickerRequestModelValidator.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api.Contracts\\Validation\\TickerRequestModelValidator.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Validation\\TickerRequestModelValidator.cs",
+              "RelativeToolTip": "StockMarket.Api.Contracts\\Validation\\TickerRequestModelValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:28:47.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StockMarketResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Models\\Responses\\StockMarketResponseModel.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api.Contracts\\Models\\Responses\\StockMarketResponseModel.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Models\\Responses\\StockMarketResponseModel.cs",
+              "RelativeToolTip": "StockMarket.Api.Contracts\\Models\\Responses\\StockMarketResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:28:42.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TickerRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Models\\Requests\\TickerRequestModel.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api.Contracts\\Models\\Requests\\TickerRequestModel.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Models\\Requests\\TickerRequestModel.cs",
+              "RelativeToolTip": "StockMarket.Api.Contracts\\Models\\Requests\\TickerRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:28:37.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidationError.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Errors\\ValidationError.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api.Contracts\\Errors\\ValidationError.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Errors\\ValidationError.cs",
+              "RelativeToolTip": "StockMarket.Api.Contracts\\Errors\\ValidationError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:28:34.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ModelNotValidErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Errors\\ModelNotValidErrorDetails.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api.Contracts\\Errors\\ModelNotValidErrorDetails.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Errors\\ModelNotValidErrorDetails.cs",
+              "RelativeToolTip": "StockMarket.Api.Contracts\\Errors\\ModelNotValidErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:28:31.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Errors\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api.Contracts\\Errors\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api.Contracts\\Errors\\ErrorDetails.cs",
+              "RelativeToolTip": "StockMarket.Api.Contracts\\Errors\\ErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:28:29.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "StockMarket.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\appsettings.json",
+              "RelativeToolTip": "StockMarket.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T07:24:23.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Program.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Program.cs",
+              "RelativeToolTip": "StockMarket.Api\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:24:22.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "StockMarket.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:24:16.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "StockMarket.Api\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:23:33.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExceptionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Extensions\\ExceptionExtensions.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api\\Extensions\\ExceptionExtensions.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Extensions\\ExceptionExtensions.cs",
+              "RelativeToolTip": "StockMarket.Api\\Extensions\\ExceptionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:23:20.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Controllers\\Base\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api\\Controllers\\Base\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Controllers\\Base\\BaseApiController.cs",
+              "RelativeToolTip": "StockMarket.Api\\Controllers\\Base\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:22:53.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CurrenciesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Controllers\\CurrenciesController.cs",
+              "RelativeDocumentMoniker": "StockMarket.Api\\Controllers\\CurrenciesController.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\StockMarket.Api\\Controllers\\CurrenciesController.cs",
+              "RelativeToolTip": "StockMarket.Api\\Controllers\\CurrenciesController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:22:43.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\SimpleWS-Client\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleWS-Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\StockMarket\\SimpleWS-Client\\Program.cs",
+              "RelativeToolTip": "SimpleWS-Client\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:22:34.085Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2825,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ti9hORIeN4jah0C0xVZJUEvm6U7IaqhIqPrqOrUJWZA=",
+  "Source": "StockMarket.Api",
+  "BasePath": "_content/StockMarket.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\bin\Debug\net8.0\ProductStore.Api.Contracts.deps.json
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\bin\Debug\net8.0\ProductStore.Api.Contracts.dll
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\bin\Debug\net8.0\ProductStore.Api.Contracts.pdb
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\obj\Debug\net8.0\ProductStore.Api.Contracts.csproj.AssemblyReference.cache
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\obj\Debug\net8.0\ProductStore.Api.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\obj\Debug\net8.0\ProductStore.Api.Contracts.AssemblyInfoInputs.cache
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\obj\Debug\net8.0\ProductStore.Api.Contracts.AssemblyInfo.cs
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\obj\Debug\net8.0\ProductStore.Api.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\obj\Debug\net8.0\ProductStore.Api.Contracts.dll
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\obj\Debug\net8.0\refint\ProductStore.Api.Contracts.dll
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\obj\Debug\net8.0\ProductStore.Api.Contracts.pdb
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Api.Contracts\obj\Debug\net8.0\ref\ProductStore.Api.Contracts.dll

@@ -1,0 +1,17 @@
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\bin\Debug\net8.0\ProductStore.Infrastructure.deps.json
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\bin\Debug\net8.0\ProductStore.Infrastructure.dll
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\bin\Debug\net8.0\ProductStore.Infrastructure.pdb
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\bin\Debug\net8.0\ProductStore.Api.Contracts.dll
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\bin\Debug\net8.0\ProductStore.Infrastructure.Data.dll
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\bin\Debug\net8.0\ProductStore.Api.Contracts.pdb
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\bin\Debug\net8.0\ProductStore.Infrastructure.Data.pdb
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\obj\Debug\net8.0\ProductStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\obj\Debug\net8.0\ProductStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\obj\Debug\net8.0\ProductStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\obj\Debug\net8.0\ProductStore.Infrastructure.AssemblyInfo.cs
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\obj\Debug\net8.0\ProductStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\obj\Debug\net8.0\ProductS.E443D25B.Up2Date
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\obj\Debug\net8.0\ProductStore.Infrastructure.dll
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\obj\Debug\net8.0\refint\ProductStore.Infrastructure.dll
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\obj\Debug\net8.0\ProductStore.Infrastructure.pdb
+C:\Users\Sargis_Soghomonyan\source\repos\ProductStore\ProductStore.Infrastructure\obj\Debug\net8.0\ref\ProductStore.Infrastructure.dll

@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|ProductStore.Infrastructure\\StockMarket.Infrastructure.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.infrastructure\\stockmarket.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|ProductStore.Infrastructure\\StockMarket.Infrastructure.csproj|solutionrelative:productstore.infrastructure\\stockmarket.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB2019A-DABC-4118-B428-2F4E58529B5F}|ProductStore.Infrastructure.Data\\StockMarket.Infrastructure.Data.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.infrastructure.data\\stockmarket.infrastructure.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BB2019A-DABC-4118-B428-2F4E58529B5F}|ProductStore.Infrastructure.Data\\StockMarket.Infrastructure.Data.csproj|solutionrelative:productstore.infrastructure.data\\stockmarket.infrastructure.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.api.contracts\\models\\responses\\stockmarketresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:productstore.api.contracts\\models\\responses\\stockmarketresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.api.contracts\\stockmarket.api.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:productstore.api.contracts\\stockmarket.api.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|ProductStore.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|ProductStore.Api\\StockMarket.Api.csproj|solutionrelative:productstore.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|ProductStore.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|ProductStore.Api\\StockMarket.Api.csproj|solutionrelative:productstore.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|ProductStore.Api\\Stock Market.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.api\\controllers\\base\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|ProductStore.Api\\Stock Market.Api.csproj|solutionrelative:productstore.api\\controllers\\base\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|ProductStore.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.api\\extensions\\exceptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|ProductStore.Api\\StockMarket.Api.csproj|solutionrelative:productstore.api\\extensions\\exceptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|ProductStore.Api\\StockMarket.Api.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}|ProductStore.Api\\StockMarket.Api.csproj|solutionrelative:productstore.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.api.contracts\\validation\\stockmarketresponsemodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:productstore.api.contracts\\validation\\stockmarketresponsemodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.api.contracts\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02C1734-562E-4383-9A05-D735B3953243}|ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj|solutionrelative:productstore.api.contracts\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|ProductStore.Infrastructure\\StockMarket.Infrastructure.csproj|c:\\users\\sargis_soghomonyan\\desktop\\productstore\\productstore.infrastructure\\services\\implementations\\stockmarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}|ProductStore.Infrastructure\\StockMarket.Infrastructure.csproj|solutionrelative:productstore.infrastructure\\services\\implementations\\stockmarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockMarket.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Infrastructure\\StockMarket.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductStore.Infrastructure\\StockMarket.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Infrastructure\\StockMarket.Infrastructure.csproj",
+              "RelativeToolTip": "ProductStore.Infrastructure\\StockMarket.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T15:52:47.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockMarket.Infrastructure.Data",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Infrastructure.Data\\StockMarket.Infrastructure.Data.csproj",
+              "RelativeDocumentMoniker": "ProductStore.Infrastructure.Data\\StockMarket.Infrastructure.Data.csproj",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Infrastructure.Data\\StockMarket.Infrastructure.Data.csproj",
+              "RelativeToolTip": "ProductStore.Infrastructure.Data\\StockMarket.Infrastructure.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T15:49:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductStore.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ProductStore.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:38:47.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductStore.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductStore.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA5wDcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:11:46.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api\\Extensions\\ExceptionExtensions.cs",
+              "RelativeDocumentMoniker": "ProductStore.Api\\Extensions\\ExceptionExtensions.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api\\Extensions\\ExceptionExtensions.cs",
+              "RelativeToolTip": "ProductStore.Api\\Extensions\\ExceptionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:07:33.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ProductStore.Api\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "ProductStore.Api\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:07:13.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockMarketResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api.Contracts\\Models\\Responses\\StockMarketResponseModel.cs",
+              "RelativeDocumentMoniker": "ProductStore.Api.Contracts\\Models\\Responses\\StockMarketResponseModel.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api.Contracts\\Models\\Responses\\StockMarketResponseModel.cs",
+              "RelativeToolTip": "ProductStore.Api.Contracts\\Models\\Responses\\StockMarketResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:07:03.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api.Contracts\\Constants.cs",
+              "RelativeDocumentMoniker": "ProductStore.Api.Contracts\\Constants.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api.Contracts\\Constants.cs",
+              "RelativeToolTip": "ProductStore.Api.Contracts\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:06:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockMarketService.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Infrastructure\\Services\\Implementations\\StockMarketService.cs",
+              "RelativeDocumentMoniker": "ProductStore.Infrastructure\\Services\\Implementations\\StockMarketService.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Infrastructure\\Services\\Implementations\\StockMarketService.cs",
+              "RelativeToolTip": "ProductStore.Infrastructure\\Services\\Implementations\\StockMarketService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:57:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StockMarketResponseModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api.Contracts\\Validation\\StockMarketResponseModelValidator.cs",
+              "RelativeDocumentMoniker": "ProductStore.Api.Contracts\\Validation\\StockMarketResponseModelValidator.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api.Contracts\\Validation\\StockMarketResponseModelValidator.cs",
+              "RelativeToolTip": "ProductStore.Api.Contracts\\Validation\\StockMarketResponseModelValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:56:35.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockMarket.Api.Contracts",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj",
+              "RelativeDocumentMoniker": "ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj",
+              "RelativeToolTip": "ProductStore.Api.Contracts\\StockMarket.Api.Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T08:50:32.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api\\Controllers\\Base\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "ProductStore.Api\\Controllers\\Base\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Sargis_Soghomonyan\\Desktop\\ProductStore\\ProductStore.Api\\Controllers\\Base\\BaseApiController.cs",
+              "RelativeToolTip": "ProductStore.Api\\Controllers\\Base\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:46:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2825,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

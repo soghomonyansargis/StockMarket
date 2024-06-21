@@ -1,0 +1,15 @@
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\bin\Debug\net8.0\StockMarket.Infrastructure.deps.json
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\bin\Debug\net8.0\StockMarket.Infrastructure.dll
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\bin\Debug\net8.0\StockMarket.Infrastructure.pdb
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\bin\Debug\net8.0\StockMarket.Api.Contracts.dll
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\bin\Debug\net8.0\StockMarket.Api.Contracts.pdb
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\obj\Debug\net8.0\StockMarket.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\obj\Debug\net8.0\StockMarket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\obj\Debug\net8.0\StockMarket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\obj\Debug\net8.0\StockMarket.Infrastructure.AssemblyInfo.cs
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\obj\Debug\net8.0\StockMarket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\obj\Debug\net8.0\StockMar.80F5AEC7.Up2Date
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\obj\Debug\net8.0\StockMarket.Infrastructure.dll
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\obj\Debug\net8.0\refint\StockMarket.Infrastructure.dll
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\obj\Debug\net8.0\StockMarket.Infrastructure.pdb
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure\obj\Debug\net8.0\ref\StockMarket.Infrastructure.dll

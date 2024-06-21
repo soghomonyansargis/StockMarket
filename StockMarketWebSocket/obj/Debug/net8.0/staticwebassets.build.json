@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3eu1QDlevdhO0zKbDvwF0W8uLn4koRyCk8+uxFc8x9I=",
+  "Source": "StockMarketWebSocket",
+  "BasePath": "_content/StockMarketWebSocket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

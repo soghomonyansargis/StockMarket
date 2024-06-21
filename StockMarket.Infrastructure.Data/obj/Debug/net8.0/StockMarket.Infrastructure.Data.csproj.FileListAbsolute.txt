@@ -1,0 +1,17 @@
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\bin\Debug\net8.0\StockMarket.Infrastructure.Data.deps.json
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\bin\Debug\net8.0\StockMarket.Infrastructure.Data.runtimeconfig.json
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\bin\Debug\net8.0\StockMarket.Infrastructure.Data.dll
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\bin\Debug\net8.0\StockMarket.Infrastructure.Data.pdb
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\bin\Debug\net8.0\StockMarket.Api.Contracts.dll
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\bin\Debug\net8.0\StockMarket.Api.Contracts.pdb
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\StockMarket.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\StockMarket.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\StockMarket.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\StockMarket.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\StockMarket.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\StockMar.776A91B4.Up2Date
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\StockMarket.Infrastructure.Data.dll
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\refint\StockMarket.Infrastructure.Data.dll
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\StockMarket.Infrastructure.Data.pdb
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\StockMarket.Infrastructure.Data.genruntimeconfig.cache
+C:\Users\Sargis_Soghomonyan\Desktop\ProductStore\StockMarket.Infrastructure.Data\obj\Debug\net8.0\ref\StockMarket.Infrastructure.Data.dll

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{130A30B2-DFEA-44B3-B7A3-7BE4D4B97B28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{29950F60-0AAF-4435-851C-06DF4171BC57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarket.Api", "StockMarket.Api\StockMarket.Api.csproj", "{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarket.Infrastructure", "StockMarket.Infrastructure\StockMarket.Infrastructure.csproj", "{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarket.Api.Contracts", "StockMarket.Api.Contracts\StockMarket.Api.Contracts.csproj", "{A02C1734-562E-4383-9A05-D735B3953243}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarketWebSocket", "StockMarketWebSocket\StockMarketWebSocket.csproj", "{BE446CA9-E128-4B17-8C43-4EA05B1855B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWS-Client", "SimpleWS-Client\SimpleWS-Client.csproj", "{33F72BCA-B866-4AA5-BEEF-78FF1AC8635D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DFB3A0-9BE7-4D44-9290-82F3638A80AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055C0B9E-0825-4AE4-ABC4-686D8A64E77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02C1734-562E-4383-9A05-D735B3953243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02C1734-562E-4383-9A05-D735B3953243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02C1734-562E-4383-9A05-D735B3953243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02C1734-562E-4383-9A05-D735B3953243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE446CA9-E128-4B17-8C43-4EA05B1855B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE446CA9-E128-4B17-8C43-4EA05B1855B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE446CA9-E128-4B17-8C43-4EA05B1855B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE446CA9-E128-4B17-8C43-4EA05B1855B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F72BCA-B866-4AA5-BEEF-78FF1AC8635D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F72BCA-B866-4AA5-BEEF-78FF1AC8635D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F72BCA-B866-4AA5-BEEF-78FF1AC8635D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F72BCA-B866-4AA5-BEEF-78FF1AC8635D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{29950F60-0AAF-4435-851C-06DF4171BC57} = {130A30B2-DFEA-44B3-B7A3-7BE4D4B97B28}
+		{48DFB3A0-9BE7-4D44-9290-82F3638A80AE} = {29950F60-0AAF-4435-851C-06DF4171BC57}
+		{055C0B9E-0825-4AE4-ABC4-686D8A64E77F} = {29950F60-0AAF-4435-851C-06DF4171BC57}
+		{A02C1734-562E-4383-9A05-D735B3953243} = {29950F60-0AAF-4435-851C-06DF4171BC57}
+		{BE446CA9-E128-4B17-8C43-4EA05B1855B4} = {29950F60-0AAF-4435-851C-06DF4171BC57}
+		{33F72BCA-B866-4AA5-BEEF-78FF1AC8635D} = {29950F60-0AAF-4435-851C-06DF4171BC57}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {707CE1D5-4DD5-4F15-838A-A04899CF0EC7}
+	EndGlobalSection
+EndGlobal
