@@ -1,3 +1,5 @@
+using FluentValidation;
+using StockMarket.Api.Contracts.Validation;
 using StockMarket.Infrastructure.Options;
 using StockMarket.Infrastructure.Services.Abstractions;
 using StockMarket.Infrastructure.Services.Implementations;
@@ -20,7 +22,7 @@ builder.Services.AddAutoMapper(cfg =>
 builder.Services.AddScoped<IBroadcastService, BroadcastService>();
 builder.Services.AddScoped<IStockMarket, StockMarketService>()
     .Configure<AlphaVantageConfigurationsOptions>(builder.Configuration.GetSection(nameof(AlphaVantageConfigurationsOptions)));
-
+builder.Services.AddValidatorsFromAssemblies([typeof(TickerRequestModelValidator).Assembly, typeof(Program).Assembly]);
 var app = builder.Build();
 
 app.UseHttpsRedirection();

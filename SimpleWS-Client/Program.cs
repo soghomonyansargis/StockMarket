@@ -5,6 +5,7 @@ internal class Program
 {
     private static async Task Main(string[] args)
     {
+        Task.Delay(3000);
         using var ws = new ClientWebSocket();
 
         try
